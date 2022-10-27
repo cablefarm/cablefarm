@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cablefarm, also known as Ger Vloothuis
 - 
-I’m interested in digital television distribution as an Internet Services Provide (ISP) with
-more than half a century experience in the design and deployement of cable television systems all over the world.  
+I’m interested in digital television distribution as an Internet Services Provider (ISP) on Australia's Gold Coast, with more than half a century experience in the design and deployement of cable television systems all over the world.  
 
 Started up with the all coax distribution networks for apartment buildings, small villages and later complete towns.  
 The fibre was invented and we swiched to vHybrid Fibre Coax systems.  And today, we dropped the coax oart alltogether 
