@@ -10,7 +10,8 @@ and go with fibre right to the subscriber.
 
 - 🌱 I’m currently learning ...           Android TV programming
 - 💞️ I’m looking to collaborate on ...    DVB-NIP
-- 📫 How to reach me ...:                 Write to ger@vloothuis.net or ring +61-408-379-233
+- 📫 How to reach me ...:                 Write to ger@vloothuis.net 
+                                          or ring +61-408-379-233
 
 <!---
 cablefarm/cablefarm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
